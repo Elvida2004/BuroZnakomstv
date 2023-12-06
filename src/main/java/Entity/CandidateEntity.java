@@ -13,7 +13,7 @@ public class CandidateEntity{
     private String registrationDate;
     private String about;
     private String partnerRequirements;
-    public static boolean textCorrect(String text) {
+    public static boolean textCorrect(String text) {//корректность ввода
         return text.matches("[А-Я][a-я]{0,30}");
     }
 
