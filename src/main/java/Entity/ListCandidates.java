@@ -8,6 +8,6 @@ import java.util.List;
 public class ListCandidates {
     private List<CandidateEntity> data;
 
-    public void add(CandidateEntity candidate) {//
+    public void add(CandidateEntity candidate) {
     }
 }
