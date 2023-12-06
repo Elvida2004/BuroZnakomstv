@@ -1,0 +1,1 @@
+{"data":[{"gender":"Ж","registrationNumber":"123-45","registrationDate":"06.12.23","about":"Высокая","partnerRequirements":"Умный"}]}
