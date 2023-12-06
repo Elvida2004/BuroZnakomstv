@@ -37,7 +37,7 @@ public class Main {
             } catch (InputMismatchException e) {
                 System.out.println("Ошибка: Введите корректное число из меню.");
                 scanner.nextLine(); // Очищаем буфер ввода
-                continue; // Пропускаем оставшийся код в текущей итерации цикла.
+                continue; // Пропускаем оставшийся код в текущей итерации цикла
             }
             switch (menu) {
                 case (1):
